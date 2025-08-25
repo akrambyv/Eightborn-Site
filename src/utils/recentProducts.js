@@ -1,4 +1,3 @@
-
 const RECENT_PRODUCTS_KEY = 'recentlyViewedProducts';
 
 export const addToRecentlyViewed = (product) => {

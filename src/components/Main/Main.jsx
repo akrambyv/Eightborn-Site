@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-import { getRecentlyViewed } from '../../utils/RecentProducts';
+import { getRecentlyViewed } from '../../utils/recentProducts';
 import { useTranslation } from 'react-i18next';
 
 function Main() {
@@ -11,6 +11,7 @@ function Main() {
   const [recentProducts, setRecentProducts] = useState([]);
   const { t, i18n } = useTranslation() // i18n hook
 
+
   const getCurrentLanguageLabel = () => {
     const langMap = {
       'tr': 'TR',
@@ -20,7 +21,6 @@ function Main() {
     };
     return langMap[i18n.language] || 'TR';
   };
-
   const loadRecentProducts = () => {
     const recent = getRecentlyViewed();
     setRecentProducts(recent);
