@@ -2,7 +2,7 @@ import { useState, useEffect, useMemo } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
 import { IoIosArrowBack, IoIosArrowForward } from 'react-icons/io'
 import { FiMinus, FiPlus } from 'react-icons/fi'
-import { addToRecentlyViewed, formatProductForRecent } from '../../utils/RecentProducts'
+import { addToRecentlyViewed, formatProductForRecent } from '../../utils/recentProducts'
 import { useTranslation } from "react-i18next";
 
 function ProductDetail() {

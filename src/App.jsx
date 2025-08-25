@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import Main from './components/Main/Main'
 import { Route, Routes } from 'react-router-dom'
 import Layout from './Layout/Layout'
