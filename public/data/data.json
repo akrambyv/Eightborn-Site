@@ -1,0 +1,532 @@
+{
+    "products": {
+      "bere": [
+        {
+          "id": 1,
+          "name": "Beat Kalın Bere - Koyu Gri",
+          "category": "bere",
+          "price": 19.00,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["One Size"],
+          "description": "Kışın soğuk nefesinde size sıcaklık veren, ruhunuzu ısıtan bere. Her örgü, kış masallarından bir satırı gibi.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/e368c89a-ee74-4b6d-8dad-96d331c62898/1080/8born-09-12-20230048.webp"]
+        },
+        {
+          "id": 2,
+          "name": "Feat İnce Bere - Koyu Haki",
+          "category": "bere",
+          "price": 19.00,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["One Size"],
+          "description": "Soğuk günlerde sizi sıcak tutan, şıklığıyla fark yaratan bere.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/ad635194-8e14-4121-83f2-f1cb2cdf6f86/1080/8born-09-12-20230054.webp"]
+        },
+        {
+          "id": 3,
+          "name": "Feat İnce Bere - Koyu Gri",
+          "category": "bere",
+          "price": 19.00,
+          "currency": "USD",
+          "stock": "Out of Stock",
+          "sizes": ["One Size"],
+          "description": "Doğadan ilham alan renklerle sıcaklık sunan bere.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/ed468dc0-b107-417b-8465-5afca8a16ef1/540/8born-09-12-20230060-33.webp"]
+        },
+        {
+          "id": 4,
+          "name": "Polar Mask",
+          "category": "bere",
+          "price": 19.00,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["One Size"],
+          "description": "Yumuşacık iplikten örülmüş, kışa özel bere.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/ca07581e-276b-4633-b70a-2253807c97a6/540/8born-09-12-202311437.webp"]
+        },
+        {
+          "id": 5,
+          "name": "Beat Kalın Bere - İndigo Mavi",
+          "category": "bere",
+          "price": 19.00,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["One Size"],
+          "description": "Klasik tasarımıyla her kombine uyumlu bere.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/079712a8-8bb8-4ddd-8973-0e31addbf1d8/540/8born-09-12-20230060-66.webp"]
+        },
+        {
+          "id": 6,
+          "name": "Beat Kalın Bere - Siyah",
+          "category": "bere",
+          "price": 19.00,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["One Size"],
+          "description": "Yün karışımlı, ekstra yumuşak bere.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/468e21d7-e0e9-4242-bd51-b20c8a845c58/540/8born-09-12-202310918.webp"]
+        },
+        {
+          "id": 7,
+          "name": "Beat Kalın Bere - Haki Yeşili",
+          "category": "bere",
+          "price": 19.00,
+          "currency": "USD",
+          "stock": "Out of Stock",
+          "sizes": ["One Size"],
+          "description": "Kalın örgüsüyle sıcak tutan bere.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/0ab5c3de-9962-448e-8589-5517d5dc2a82/540/8born-09-12-20230060-77.webp"]
+        },
+        {
+          "id": 8,
+          "name": "Beat Kalın Bere - Koyu Haki",
+          "category": "bere",
+          "price": 19.00,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["One Size"],
+          "description": "Şıklığı ve konforu bir arada sunan bere.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/afdbe93d-b95f-4f9e-9550-027aaf2e519f/540/8born-09-12-20230055.webp"]
+        },
+        {
+          "id": 9,
+          "name": "Beat Kalın Bere - Açık Gri",
+          "category": "bere",
+          "price": 19.00,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["One Size"],
+          "description": "Doğal alpaka yünü ile üretilmiş bere.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/29bf39fc-9767-47c9-a7c2-7f438e230de3/540/8born-09-12-202310815.webp"]
+        },
+        {
+          "id": 10,
+          "name": "Feat İnce Bere - Açık Gri",
+          "category": "bere",
+          "price": 19.00,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["One Size"],
+          "description": "İçi yumuşak polar kaplı sıcak bere.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/2226f2cf-93f6-4b4d-b963-0bba863d08e8/540/8born-09-12-20230053.webp"]
+        },
+        {
+          "id": 11,
+          "name": "Feat İnce Bere - Siyah",
+          "category": "bere",
+          "price": 19.00,
+          "currency": "USD",
+          "stock": "Out of Stock",
+          "sizes": ["One Size"],
+          "description": "Retro görünümüyle dikkat çeken bere.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/f05dc89a-59f7-415f-b380-18cad42dd6ff/540/8born-09-12-20230060-55.webp"]
+        },
+        {
+          "id": 12,
+          "name": "Feat İnce Bere - İndigo Mavi",
+          "category": "bere",
+          "price": 19.00,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["One Size"],
+          "description": "Özel nakış detaylı şık bere.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/5eff99d9-ccc4-4b19-a17a-8a40f00beb43/2560/8born-09-12-20230060-kopya.webp"]
+        },
+        {
+          "id": 13,
+          "name": "Feat İnce Bere - Haki Yeşili",
+          "category": "bere",
+          "price": 19.00,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["One Size"],
+          "description": "Kablolu örgü desenli modern bere.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/1586cd48-dff8-4f12-b147-48fffbce7cb6/540/8born-09-12-20230060-22.webp"]
+        }
+      ],
+      "gold_series": [
+        {
+          "id": 14,
+          "name": "Golden Skull Oversized Hoodie",
+          "category": "gold-series",
+          "price": 199.99,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["S", "M", "L", "XL"],
+          "description": "Premium kalite ile üretilen özel seri hoodie. Altın detayları ve üstün kumaş kalitesi ile fark yaratın.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/17bcd96f-a054-481c-bad2-196ee4af4079/540/8born-09-12-202310834.webp"]
+        }
+      ],
+      "hoodie": [
+        {
+          "id": 15,
+          "name": "Tree Oversized Hoodie 01",
+          "category": "hoodie",
+          "price": 149.99,
+          "currency": "USD",
+          "stock": "Out of Stock",
+          "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+          "description": "Doğanın sessiz gücünü taşıyan, her dikişinde ağaç köklerinin hikayesini anlatan oversized hoodie.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/0aef34b9-2104-42af-bf80-304569f01517/540/8born-09-12-202310511.webp"]
+        },
+        {
+          "id": 16,
+          "name": "Wave Oversized Hoodie 05",
+          "category": "hoodie",
+          "price": 139.99,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["S", "M", "L"],
+          "description": "Şəhərin ruhunu daşıyan rahat hoodie.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/276213c1-a80a-48c9-8d90-9f96c20d2ed8/540/8born-09-12-202310789.webp"]
+        },
+        {
+          "id": 17,
+          "name": "Frog Oversized Hoodie 04",
+          "category": "hoodie",
+          "price": 129.99,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["M", "L", "XL"],
+          "description": "Klassik kesim və rahatlıq.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/9e649168-38d8-43b8-9f0e-a18acae6f743/540/8born-09-12-202311162.webp"]
+        },
+        {
+          "id": 18,
+          "name": "Toucan Oversized Hoodie 03",
+          "category": "hoodie",
+          "price": 139.99,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["S", "M", "L", "XL"],
+          "description": "İdman üçün ideal hoodie.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/d6c1cda8-eee9-4827-91c0-4998506b11c3/540/8born-09-12-202310620.webp"]
+        },
+        {
+          "id": 19,
+          "name": "Planet Oversized Hoodie 02",
+          "category": "hoodie",
+          "price": 159.99,
+          "currency": "USD",
+          "stock": "Out of Stock",
+          "sizes": ["M", "L", "XL", "XXL"],
+          "description": "Önü fermuarlı rahat hoodie.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/f5a00f7f-aa03-450a-8485-007818f0cd52/540/8born-09-12-202310735.webp"]
+        },
+        {
+          "id": 20,
+          "name": "Mushroom Oversized Hoodie",
+          "category": "hoodie",
+          "price": 149.99,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["S", "M", "L"],
+          "description": "İçi isti fleece materialdan.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/dafb9047-1101-463d-a3ad-d6e2a2a94cb8/540/8born-09-12-20230118.webp"]
+        },
+        {
+          "id": 21,
+          "name": "Astronaut Oversized Hoodie",
+          "category": "hoodie",
+          "price": 119.99,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["XS", "S", "M"],
+          "description": "Yüngül və rahat.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/876028ef-87e5-41ca-9079-6173a1920f99/540/8born-09-12-202310383.webp"]
+        },
+        {
+          "id": 22,
+          "name": "Mushroom Oversized Hoodie",
+          "category": "hoodie",
+          "price": 159.99,
+          "currency": "USD",
+          "stock": "Out of Stock",
+          "sizes": ["L", "XL", "XXL"],
+          "description": "Bol kesimli oversized hoodie.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/6f85e892-351b-48a8-9131-6253890a92ff/540/8born-09-12-202310277.webp"]
+        },
+        {
+          "id": 23,
+          "name": "Skull Oversized Hoodie 10",
+          "category": "hoodie",
+          "price": 139.99,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["S", "M", "L", "XL"],
+          "description": "Rəngli grafik printli hoodie.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/88934fef-ed0c-4aa7-9cec-cafb93272f48/540/8born-09-12-202311305.webp"]
+        },
+        {
+          "id": 24,
+          "name": "Skull Oversized Hoodie 11",
+          "category": "hoodie",
+          "price": 169.99,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["M", "L", "XL", "XXL"],
+          "description": "Ekoloji təmiz materiallardan hazırlanmış hoodie.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/d3fdcf92-0d81-4aea-b896-96dae0838423/540/8born-09-12-202310427.webp"]
+        },
+        {
+          "id": 25,
+          "name": "Astronaut Oversized Hoodie",
+          "category": "hoodie",
+          "price": 149.99,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["S", "M", "L", "XL"],
+          "description": "Köhnə stil vintage hoodie.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/cdeb90ec-6cc5-4e8c-a82d-c5a08c48bd08/540/8born-09-12-202311108.webp"]
+        }
+      ],
+      "sac_bandi": [
+        {
+          "id": 26,
+          "name": "Polar Saç Bandı - Fuşya",
+          "category": "sac-bandi",
+          "price": 29.99,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["One Size"],
+          "description": "Özgürlüğün rüzgarını saçlarınızda hissettiren saç bandı.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/82214287-518a-4302-abb8-71af07bec68b/540/8born-09-12-20230084-copy.webp"]
+        },
+        {
+          "id": 27,
+          "name": "Polar Saç Bandı - Siyah",
+          "category": "sac-bandi",
+          "price": 29.99,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["One Size"],
+          "description": "Özgürlüğün rüzgarını saçlarınızda hissettiren saç bandı.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/9bb9d369-fbdc-4c57-9133-0f5895a81398/540/8born-09-12-20230084-copy.webp"]
+        },
+        {
+          "id": 28,
+          "name": "Polar Saç Bandı - Kırmızı",
+          "category": "sac-bandi",
+          "price": 24.99,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["One Size"],
+          "description": "Klasik və rahat saç bandı.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/46e4702b-4c46-4690-acbc-55aa2fe6d40d/540/8born-09-12-20230060-2525.webp"]
+        },
+        {
+          "id": 29,
+          "name": "Polar Saç Bandı - Pembe",
+          "category": "sac-bandi",
+          "price": 27.99,
+          "currency": "USD",
+          "stock": "Out of Stock",
+          "sizes": ["One Size"],
+          "description": "İdman üçün ideal saç bandı.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/d78eff0b-73e9-4c26-9516-f552d4fb6c6d/540/8born-09-12-20230060-zoomed.webp"]
+        },
+        {
+          "id": 30,
+          "name": "Polar Saç Bandı - Koyu Gri",
+          "category": "sac-bandi",
+          "price": 25.99,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["One Size"],
+          "description": "Çiçək naxışlı saç bandı.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/4d14d192-7575-40ed-a8f7-80d6df08120f/540/8born-09-12-20230080.webp"]
+        },
+        {
+          "id": 31,
+          "name": "Polar Saç Bandı - Beyaz",
+          "category": "sac-bandi",
+          "price": 34.99,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["One Size"],
+          "description": "Lüks dizaynlı saç bandı.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/8147d7d5-c52a-4868-88df-f3b53af751a6/540/8born-09-12-20230056.webp"]
+        }
+      ],
+      "corap": [
+        {
+          "id": 32,
+          "name": "Basic Socks - Kırmızı",
+          "category": "corap",
+          "price": 6.00,
+          "currency": "USD",
+          "stock": "Out of Stock",
+          "sizes": ["36-39", "40-43", "44-47"],
+          "description": "Her adımınızda bir hikaye anlatan çoraplar.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/a2d301bf-2e27-42e9-a11c-da09e2ccc5da/540/8born-09-12-20230056-1.webp"]
+        },
+        {
+          "id": 33,
+          "name": "Basic Socks - Siyah",
+          "category": "corap",
+          "price": 6.00,
+          "currency": "USD",
+          "stock": "Out of Stock",
+          "sizes": ["36-39", "40-43", "44-47"],
+          "description": "Ayaklarınıza yeni bir macera yaşatan çoraplar.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/a8c28e50-c1ec-4e58-ba02-16bb4aedc2ab/540/8born-09-12-20230062-1.webp"]
+        },
+        {
+          "id": 34,
+          "name": "Basic Socks - Süt Kahve",
+          "category": "corap",
+          "price": 6.00,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["36-39", "40-43"],
+          "description": "Rahat ve sıcak tutan çoraplar.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/9371d22e-3359-4b7b-bd04-90bedc36f895/540/8born-09-12-20230057-1.webp"]
+        },
+        {
+          "id": 35,
+          "name": "Basic Socks - Sarı",
+          "category": "corap",
+          "price": 6.00,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["40-43", "44-47"],
+          "description": "Spor için ideal çoraplar.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/ab7228e0-da4e-413e-992e-7d01b25b0346/540/8born-09-12-20230058-1.webp"]
+        },
+        {
+          "id": 36,
+          "name": "Basic Socks - Bordo",
+          "category": "corap",
+          "price": 6.00,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["36-39", "40-43"],
+          "description": "Kışa uygun kalın çoraplar.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/02f3a32f-142c-49e9-b58f-75daad751f64/540/8born-09-12-20230059-1.webp"]
+        },
+        {
+          "id": 37,
+          "name": "Basic Socks - Turkuaz",
+          "category": "corap",
+          "price": 6.00,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["36-39", "40-43"],
+          "description": "Şık tasarımlı çoraplar.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/dca9b4d0-44c4-4717-84de-4b0094246c6b/540/8born-09-12-20230060-1.webp"]
+        },
+        {
+          "id": 38,
+          "name": "Basic Socks - Bebek Mavi",
+          "category": "corap",
+          "price": 6.00,
+          "currency": "USD",
+          "stock": "Out of Stock",
+          "sizes": ["36-39"],
+          "description": "Rahatlığı ilə ön plana çıkan çoraplar.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/9a29b3d0-56d1-4e02-8d71-adfef2adcc8c/540/8born-09-12-20230061-1.webp"]
+        },
+        {
+          "id": 39,
+          "name": "Basic Socks - Yeşil",
+          "category": "corap",
+          "price": 6.00,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["40-43", "44-47"],
+          "description": "Rəngli çizgili çoraplar.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/32ef48fd-d596-4841-a33c-93aa22ae06fd/540/8born-09-12-20230065s.webp"]
+        },
+        {
+          "id": 40,
+          "name": "Basic Socks - Gül Kurusu",
+          "category": "corap",
+          "price": 6.00,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["36-39", "40-43"],
+          "description": "Ekoloji təmiz materiallardan hazırlanmış çoraplar.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/e7290813-f31f-43d6-aaf2-fadce85d0731/540/8born-09-12-20230066.webp"]
+        },
+        {
+          "id": 41,
+          "name": "Basic Socks - Lila",
+          "category": "corap",
+          "price": 6.00,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["36-39", "40-43"],
+          "description": "Gündəlik rahat çoraplar.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/d20ba2ce-7646-4bb7-b52d-b558cb5c0de4/540/8born-09-12-20230067.webp"]
+        },
+        {
+          "id": 42,
+          "name": "Basic Socks - Turuncu",
+          "category": "corap",
+          "price": 6.00,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["44-47"],
+          "description": "Canlı rəngli iddialı çoraplar.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/c4424c8b-19e5-4d1a-b014-1dc613c413f0/540/8born-09-12-20230068-1.webp"]
+        },
+        {
+          "id": 43,
+          "name": "Basic Socks - Saks Mavi",
+          "category": "corap",
+          "price": 6.00,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["36-39", "40-43"],
+          "description": "Yüngül və rahat çoraplar.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/9d1c0c23-f7cf-463d-9411-d7251177266f/540/8born-09-12-20230070-1.webp"]
+        },
+        {
+          "id": 44,
+          "name": "Basic Socks - Beyaz",
+          "category": "corap",
+          "price": 6.00,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["40-43", "44-47"],
+          "description": "Yün qarışımlı rahat çoraplar.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/592242e2-ca59-4d2f-a36b-e27d660aa1dd/540/8born-09-12-20230071-1.webp"]
+        },
+        {
+          "id": 45,
+          "name": "Basic Socks - Fıstık Yeşil",
+          "category": "corap",
+          "price": 6.00,
+          "currency": "USD",
+          "stock": "Out of Stock",
+          "sizes": ["36-39", "40-43"],
+          "description": "Rəngarəng naxışlı çoraplar.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/24c581ff-db9c-428e-8a25-a53c4c939519/540/8born-09-12-20230073-1.webp"]
+        },
+        {
+          "id": 46,
+          "name": "Basic Socks - Mavi",
+          "category": "corap",
+          "price": 6.00,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["36-39", "40-43", "44-47"],
+          "description": "İdman üçün nəzərdə tutulmuş çoraplar.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/b205bc61-617d-4994-b88e-b6ab06ef2f68/540/8born-09-12-20230074-1.webp"]
+        },
+        {
+          "id": 47,
+          "name": "Basic Socks - N.Yeşil",
+          "category": "corap",
+          "price": 6.00,
+          "currency": "USD",
+          "stock": "In Stock",
+          "sizes": ["40-43", "44-47"],
+          "description": "Qışa uyğun qalın və isti çoraplar.",
+          "image_urls": ["https://cdn.myikas.com/images/d1a88c1c-11e6-49da-8469-64632e4b6c4c/da0db89a-4470-4032-887b-3661d877cbeb/540/8born-09-12-20230063-1.webp"]
+        }
+      ]
+    }
+  }
+  
