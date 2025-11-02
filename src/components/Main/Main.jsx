@@ -195,7 +195,7 @@ function Main() {
           className='animate-scroll whitespace-nowrap'
         ></div>
       </div>
-
+    
       {recentProducts.length > 0 && (
         <div className='relative mt-10'>
           {/* Başlıq */}

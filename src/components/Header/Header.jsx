@@ -44,7 +44,6 @@ function Header() {
     setCartItemCount(totalCount);
   };
 
-  // Səbət yenilənmə eventini dinlə
   useEffect(() => {
     updateCartCount();
 
@@ -59,13 +58,11 @@ function Header() {
     };
   }, []);
 
-  // Ürün verilerini yükle
   useEffect(() => {
     fetch("/data/data.json")
       .then(res => res.json())
       .then(data => {
         if (data?.products) {
-          // Kategorilerdeki tüm ürünleri tek array'e topla
           const allProducts = [];
           Object.keys(data.products).forEach(category => {
             data.products[category].forEach(product => {
@@ -92,12 +89,10 @@ function Header() {
     }
   }, [searchQuery, products]);
 
-  // İlk yükleme ve giriş durumunu kontrol et
   useEffect(() => {
     checkLoginStatus();
   }, []);
 
-  // Giriş durumunu kontrol eden fonksiyon
   const checkLoginStatus = () => {
     const loggedInUser = localStorage.getItem("loggedInUser");
     if (loggedInUser) {
@@ -107,7 +102,6 @@ function Header() {
     }
   };
 
-  // Logout fonksiyonu
   const handleLogout = () => {
     localStorage.removeItem("loggedInUser");
     localStorage.removeItem("token");
@@ -166,7 +160,6 @@ function Header() {
     setFilteredProducts([]);
   };
 
-  // Arama nəticəsindəki məhsula klik
   const handleProductClick = (product) => {
     const normalizeCategory = (category) => {
       if (!category) return ''
@@ -183,7 +176,6 @@ function Header() {
     handleSearchClose()
   };
 
-  // Ürün grid'ini oluşturan fonksiyon
   const renderProductGrid = () => {
     if (searchQuery.trim() === '') {
       return (
@@ -406,7 +398,6 @@ function Header() {
           {/* Main Menu Items */}
           <div className='p-4'>
             <div className='space-y-6'>
-              {/* Anasayfa */}
               <div className='cursor-pointer'>
                 <Link
                   to="/"
@@ -420,7 +411,6 @@ function Header() {
                 </Link>
               </div>
 
-              {/* Kategoriler */}
               <div>
                 <div
                   className='flex justify-between items-center cursor-pointer'
